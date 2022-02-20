@@ -14,8 +14,8 @@ g++ -std=c++11 -O2 main.cpp src/*.cpp -I./include -o main
 
 - 双人对弈
 
-<img src="C:\Data\Git\Wuziqi\pic\图片1.png" alt="图片1" style="zoom:25%;" />
+<img src="pic\图片1.png" alt="图片1" style="zoom:25%;" />
 
 - 人机对弈
 
-<img src="C:\Data\Git\Wuziqi\pic\图片2.png" alt="图片2" style="zoom:25%;" />
+<img src="pic\图片2.png" alt="图片2" style="zoom:25%;" />
